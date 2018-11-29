@@ -1,1 +1,1 @@
-web: bundle exec ruby lunchbot.rb -p $PORT
+bot: bundle exec ruby lunchbot.rb 0.0.0.0 -p $PORT
